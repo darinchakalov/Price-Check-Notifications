@@ -1,8 +1,8 @@
 import yagmail
 
-user = 'volatilebg@gmail.com'
-app_password = "ageiwuvgvoaoiklc"
-to = 'darinchakalov@hotmail.com'
+user = ''
+app_password = ""
+to = ''
 
 subject = 'New item price notification'
 
